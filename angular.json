@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-turtorial"
+  "defaultProject": "angular-turtorial",
+  "cli": {
+    "analytics": "a2fcbe02-9794-4cbe-882b-1ee537934a8f"
+  }
 }
